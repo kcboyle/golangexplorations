@@ -1,2 +1,1 @@
-# Exploratory Projects to Familiarize myself with Golang
-
+Exploratory Projects to Familiarize myself with Golang
